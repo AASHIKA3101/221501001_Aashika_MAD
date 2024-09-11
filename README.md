@@ -109,7 +109,7 @@ To get started with the MAD-Experiments project, follow these steps:
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/Appuyoges/YOGESWARAN-S_221501511
+   git clone https://github.com/AASHIKA3101/221501001_Aashika_MAD
    ```
 
 2. **Navigate to the project directory:**
